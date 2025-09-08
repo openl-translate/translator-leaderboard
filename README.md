@@ -60,5 +60,19 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 | **Completeness** | 10.0 | 10.0 | 10.0 | 10.0 |
 | **Total Score** | **41/50** | **45/50** | **36/50** | **43/50** |
 
+### Bitcoin Whitepaper (EN → JP)
+
+> **Source Text:**  A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending... [more](./examples/bitcoin-whitepaper.md)
+
+| Dimension | [Google Translate](https://translate.google.com/) | [OpenL Translate](https://openl.io/) | [Yandex Translate](https://translate.yandex.com/) | [DeepL](https://www.deepl.com/) |
+|-----------|------------------|-----------------|------------------|--------|
+| **Translation** | 純粋なピアツーピア型の電子現金であれば、金融機関を介さずにオンライン決済を... [more](./examples/bitcoin-whitepaper.md#google-translate) | 純粋なピア・ツー・ピア型の電子現金システムは、金融機関を介さずに... [more](./examples/bitcoin-whitepaper.md#openl-translate) | 純粋にピアツーピアの電子現金のバージョンは、オンライン支払いが... [more](./examples/bitcoin-whitepaper.md#yandex-translate) | 純粋にピアツーピア版の電子マネーは、金融機関を通さずに... [more](./examples/bitcoin-whitepaper.md#deepl) |
+| **Accuracy** | 8.0 | 9.0 | 6.0 | 8.0 |
+| **Fluency** | 8.0 | 9.0 | 5.0 | 9.0 |
+| **Consistency** | 8.0 | 9.0 | 6.0 | 8.0 |
+| **Style Adaptation** | 7.0 | 9.0 | 5.0 | 8.0 |
+| **Completeness** | 10.0 | 10.0 | 10.0 | 10.0 |
+| **Total Score** | **41/50** | **46/50** | **32/50** | **43/50** |
+
 
 *The AI evaluation system uses advanced language models trained on translation quality assessment tasks, providing consistent and objective scoring across all test cases.*
