@@ -20,7 +20,7 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 
 ### Hamlet's Soliloquy (EN → ES)
 
-> **Source Text:**  
+> **Source Text:**  To be or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune... [more](./examples/hamlet-soliloquy.md)
 
 | Dimension | Google Translate | OpenL Translate | Yandex Translate | DeepL |
 |-----------|------------------|-----------------|------------------|--------|
