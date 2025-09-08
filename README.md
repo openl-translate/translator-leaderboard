@@ -16,7 +16,7 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 
 ---
 
-## Translation Example
+## Translation Examples
 
 ### Hamlet's Soliloquy (EN → ES)
 
@@ -31,6 +31,20 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 | **Style Adaptation** | 7.0 | 8.0 | 5.0 | 7.0 |
 | **Completeness** | 10.0 | 10.0 | 9.0 | 10.0 |
 | **Total Score** | **41/50** | **44/50** | **31/50** | **41/50** |
+
+### The Shawshank Redemption Quote (EN → DE)
+
+> **Source Text:**  Hope is a good thing, maybe the best of things, and no good thing ever dies. [more](./examples/shawshank-redemption.md)
+
+| Dimension | Google Translate | OpenL Translate | Yandex Translate | DeepL |
+|-----------|------------------|-----------------|------------------|--------|
+| **Translation** | Hoffnung ist etwas Gutes, vielleicht sogar das Beste... [more](./examples/shawshank-redemption.md#google-translate) | Hoffnung ist eine gute Sache, vielleicht das Beste überhaupt... [more](./examples/shawshank-redemption.md#openl-translate) | Hoffnung ist eine gute Sache, vielleicht die beste Sache... [more](./examples/shawshank-redemption.md#yandex-translate) | Die Hoffnung ist eine gute Sache, vielleicht die beste... [more](./examples/shawshank-redemption.md#deepl) |
+| **Accuracy** | 8.0 | 9.0 | 8.0 | 9.0 |
+| **Fluency** | 7.0 | 8.0 | 7.0 | 9.0 |
+| **Consistency** | 9.0 | 10.0 | 8.0 | 8.0 |
+| **Style Adaptation** | 6.0 | 7.0 | 6.0 | 8.0 |
+| **Completeness** | 10.0 | 10.0 | 10.0 | 10.0 |
+| **Total Score** | **40/50** | **44/50** | **39/50** | **44/50** |
 
 
 *The AI evaluation system uses advanced language models trained on translation quality assessment tasks, providing consistent and objective scoring across all test cases.*

@@ -58,14 +58,14 @@ Deseada con devoción.
 
 ---
 
-# Hamlet's Soliloquy Translation Review (EN → ES)
+## Hamlet's Soliloquy Translation Review
 
-## Source Text Analysis:
+### Source Text Analysis:
 The "To be or not to be" soliloquy is one of the most iconic passages in English literature, characterized by its philosophical depth, complex poetic imagery, and iambic rhythm. Translation presents unique challenges due to its literary and cultural nature.
 
 ---
 
-## Evaluation Matrix
+### Evaluation Matrix
 
 | Dimension | Google Translate | OpenL Translate | Yandex Translate | DeepL |
 |-----------|------------------|-----------------|------------------|--------|
@@ -78,9 +78,9 @@ The "To be or not to be" soliloquy is one of the most iconic passages in English
 
 ---
 
-## Detailed Analysis
+### Detailed Analysis
 
-### **OpenL Translate** (Top Score: 44/50)
+#### **OpenL Translate** (Top Score: 44/50)
 **Strengths:**
 - **"para el alma"** is a poetically superior choice over "para la mente"
 - **"golpes y dardos"** better maintains parallelism than "azotes y flechas"
@@ -92,7 +92,7 @@ The "To be or not to be" soliloquy is one of the most iconic passages in English
 - **"shocks naturales"** unnecessarily maintains the anglicism
 - **"un final"** loses the force of "consumación"
 
-### **Google Translate & DeepL** (Tied: 41/50)
+#### **Google Translate & DeepL** (Tied: 41/50)
 **Google Translate - Strengths:**
 - **"infame fortuna"** is an excellent interpretation of "outrageous fortune"
 - **"consumación"** preserves the Shakespearean technical term
@@ -111,7 +111,7 @@ The "To be or not to be" soliloquy is one of the most iconic passages in English
 - **"choques naturales"** maintains the anglicism
 - **"hondas y flechas"** mixes historical periods (sling is more ancient)
 
-### **Yandex Translate** (Lowest Score: 31/50)
+#### **Yandex Translate** (Lowest Score: 31/50)
 **Critical Issues:**
 - **"Las hondas y flechas"** - inconsistent translation
 - **"O para tomar las armas"** - incorrect syntax
@@ -122,41 +122,41 @@ The "To be or not to be" soliloquy is one of the most iconic passages in English
 
 ---
 
-## Specific Challenge Analysis
+### Specific Challenge Analysis
 
-### 1. **"That is the question"**
+#### 1. **"That is the question"**
 - **All translations:** "esa es la cuestión" ✓
 - Standard and appropriate translation, maintains iconic weight
 
-### 2. **"Slings and arrows"**
+#### 2. **"Slings and arrows"**
 - **Google:** "azotes y flechas" - interprets "slings" as whips
 - **OpenL:** "golpes y dardos" - ✓ Better interpretation of parallelism
 - **Yandex/DeepL:** "hondas y flechas" - ✓ Technically correct but anachronistic
 
-### 3. **"Outrageous fortune"**
+#### 3. **"Outrageous fortune"**
 - **Google:** "infame fortuna" ✓ - Excellent interpretation of moral sense
 - **OpenL:** "insultante fortuna" - Good option
 - **Yandex/DeepL:** "fortuna escandalosa" - Acceptable but less poetic
 
-### 4. **"Heartache"**
+#### 4. **"Heartache"**
 - **Google/DeepL:** "angustia" - Correct but generic
 - **OpenL:** "dolor del corazón" ✓ - More poetic and specific
 - **Yandex:** "angustia" - Standard
 
-### 5. **"Natural shocks / That flesh is heir to"**
+#### 5. **"Natural shocks / That flesh is heir to"**
 - **Common problem:** All maintain "shocks" as anglicism
 - **Better alternative:** "mil males naturales" or "conmociones naturales"
 - **OpenL:** Better syntax in "De los que la carne es heredera"
 
 ---
 
-## Final Recommendations
+### Final Recommendations
 
-### **Final Ranking:**
+#### **Final Ranking:**
 1. **OpenL Translate** - Optimal balance between poetic precision and fluency
 2. **Google Translate** - Excellent for general use, creative interpretations
 3. **DeepL** - Technically solid, but less poetically inspired
 4. **Yandex Translate** - Requires significant editing
 
-### **For professional literary translation:**
+#### **For professional literary translation:**
 No automatic translation fully captures the poetic complexity. We recommend using **OpenL Translate** as a base, incorporating elements from **Google Translate** ("infame fortuna", "consumación") and manually editing anglicisms and syntactic issues.
