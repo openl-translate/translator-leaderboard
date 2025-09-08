@@ -22,7 +22,7 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 
 > **Source Text:**  To be or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune... [more](./examples/hamlet-soliloquy.md)
 
-| Dimension | Google Translate | OpenL Translate | Yandex Translate | DeepL |
+| Dimension | [Google Translate](https://translate.google.com/) | [OpenL Translate](https://openl.io/) | [Yandex Translate](https://translate.yandex.com/) | [DeepL](https://www.deepl.com/) |
 |-----------|------------------|-----------------|------------------|--------|
 | **Translation** | Ser o no ser, esa es la cuestión: Si es más noble para la mente sufrir... [more](./examples/hamlet-soliloquy.md#google-translate) | Ser o no ser, esa es la cuestión: Si es más noble para el alma sufrir... [more](./examples/hamlet-soliloquy.md#openl-translate) | Ser o no ser, esa es la cuestión: Si es más noble en la mente sufrir... [more](./examples/hamlet-soliloquy.md#yandex-translate) | Ser o no ser, esa es la cuestión: Si es más noble para la mente sufrir... [more](./examples/hamlet-soliloquy.md#deepl) |
 | **Accuracy** | 8.0 | 9.0 | 6.0 | 8.0 |
@@ -36,7 +36,7 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 
 > **Source Text:**  Hope is a good thing, maybe the best of things, and no good thing ever dies. [more](./examples/shawshank-redemption.md)
 
-| Dimension | Google Translate | OpenL Translate | Yandex Translate | DeepL |
+| Dimension | [Google Translate](https://translate.google.com/) | [OpenL Translate](https://openl.io/) | [Yandex Translate](https://translate.yandex.com/) | [DeepL](https://www.deepl.com/) |
 |-----------|------------------|-----------------|------------------|--------|
 | **Translation** | Hoffnung ist etwas Gutes, vielleicht sogar das Beste... [more](./examples/shawshank-redemption.md#google-translate) | Hoffnung ist eine gute Sache, vielleicht das Beste überhaupt... [more](./examples/shawshank-redemption.md#openl-translate) | Hoffnung ist eine gute Sache, vielleicht die beste Sache... [more](./examples/shawshank-redemption.md#yandex-translate) | Die Hoffnung ist eine gute Sache, vielleicht die beste... [more](./examples/shawshank-redemption.md#deepl) |
 | **Accuracy** | 8.0 | 9.0 | 8.0 | 9.0 |

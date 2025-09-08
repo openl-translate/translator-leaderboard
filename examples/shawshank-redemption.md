@@ -9,7 +9,7 @@ Remember, Red, hope is a good thing, maybe the best of things, and no good thing
 
 Fear can hold you prisoner. Hope can set you free.
 
-## Google Translate
+## [Google Translate](https://translate.google.com/)
 Hoffnung ist etwas Gutes, vielleicht sogar das Beste, und nichts Gutes stirbt jemals.
 
 Ich denke, es läuft im Grunde auf eine einfache Entscheidung hinaus: Lebe oder stirb.
@@ -18,7 +18,7 @@ Denk dran, Red, Hoffnung ist etwas Gutes, vielleicht sogar das Beste, und nichts
 
 Angst kann dich gefangen halten. Hoffnung kann dich befreien.
 
-## OpenL Translate
+## [OpenL Translate](https://openl.io/)
 Hoffnung ist eine gute Sache, vielleicht das Beste überhaupt, und keine gute Sache stirbt jemals.
 
 Am Ende läuft es wohl auf eine einfache Entscheidung hinaus. Entweder man beschäftigt sich mit dem Leben oder mit dem Sterben.
@@ -27,7 +27,7 @@ Denk daran, Red, Hoffnung ist eine gute Sache, vielleicht das Beste überhaupt, 
 
 Angst kann dich gefangen halten. Hoffnung kann dich befreien.
 
-## Yandex Translate
+## [Yandex Translate](https://translate.yandex.com/)
 Hoffnung ist eine gute Sache, vielleicht die beste Sache, und keine gute Sache stirbt jemals.
 
 Ich denke, es kommt auf eine einfache Wahl an, wirklich. Beschäftige dich mit dem Leben oder beschäftige dich mit dem Sterben.
@@ -36,7 +36,7 @@ Denk dran, Red, Hoffnung ist eine gute Sache, vielleicht die beste, und keine gu
 
 Angst kann dich gefangen halten. Hoffnung kann dich befreien.
 
-## DeepL
+## [DeepL](https://www.deepl.com/)
 Die Hoffnung ist eine gute Sache, vielleicht die beste aller Sachen, und eine gute Sache stirbt nie.
 
 Ich schätze, es läuft auf eine einfache Entscheidung hinaus, wirklich. Entweder du lebst oder du stirbst.
