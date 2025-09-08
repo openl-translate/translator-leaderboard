@@ -11,7 +11,7 @@ The heartache and the thousand natural shocks
 That flesh is heir to: 'tis a consummation
 Devoutly to be wished.
 
-## Google Translate: {#google-translate}
+## Google Translate
 Ser o no ser, esa es la cuestión:
 Si es más noble para la mente sufrir
 los azotes y flechas de la infame fortuna,
@@ -22,7 +22,7 @@ con la angustia y las mil conmociones naturales
 que la carne hereda: es una consumación
 deseada con devoción.
 
-## OpenL Translate: {#openl-translate}
+## OpenL Translate
 Ser o no ser, esa es la cuestión:
 Si es más noble para el alma sufrir
 Los golpes y dardos de la insultante fortuna,
@@ -34,7 +34,7 @@ Que la carne hereda: es un final
 Que devotamente se desea.
 
 
-## Yandex Translate: {#yandex-translate}
+## Yandex Translate
 Ser o no ser, esa es la cuestión:
 Si es más noble en la mente sufrir
 Las hondas y flechas de la fortuna escandalosa,
@@ -45,7 +45,7 @@ La angustia y los mil choques naturales
 Esa carne es heredera de: 'es una consumación
 Devotamente para ser deseado.
 
-## DeepL: {#deepl}
+## DeepL
 Ser o no ser, esa es la cuestión:
 Si es más noble para la mente sufrir
 Las hondas y flechas de la fortuna escandalosa,
