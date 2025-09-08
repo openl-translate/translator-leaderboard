@@ -46,5 +46,19 @@ Comprehensive evaluation and comparison of translation quality across Google Tra
 | **Completeness** | 10.0 | 10.0 | 10.0 | 10.0 |
 | **Total Score** | **40/50** | **44/50** | **39/50** | **44/50** |
 
+### Steve Jobs Stanford Commencement Speech (EN → AR)
+
+> **Source Text:**  Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking... Stay Hungry. Stay Foolish. [more](./examples/steve-jobs-stanford-speech.md)
+
+| Dimension | [Google Translate](https://translate.google.com/) | [OpenL Translate](https://openl.io/) | [Yandex Translate](https://translate.yandex.com/) | [DeepL](https://www.deepl.com/) |
+|-----------|------------------|-----------------|------------------|--------|
+| **Translation** | وقتك محدود، فلا تُضيّعه في عيش حياة شخص آخر... [more](./examples/steve-jobs-stanford-speech.md#google-translate) | وقتك محدود، فلا تضيعه في عيش حياة شخص آخر... [more](./examples/steve-jobs-stanford-speech.md#openl-translate) | وقتك محدود ، لذلك لا تضيعه في عيش حياة شخص آخر... [more](./examples/steve-jobs-stanford-speech.md#yandex-translate) | وقتك محدود، فلا تضيعه في عيش حياة شخص آخر... [more](./examples/steve-jobs-stanford-speech.md#deepl) |
+| **Accuracy** | 8.0 | 9.0 | 7.0 | 9.0 |
+| **Fluency** | 8.0 | 9.0 | 6.0 | 8.0 |
+| **Consistency** | 8.0 | 9.0 | 7.0 | 8.0 |
+| **Style Adaptation** | 7.0 | 8.0 | 6.0 | 8.0 |
+| **Completeness** | 10.0 | 10.0 | 10.0 | 10.0 |
+| **Total Score** | **41/50** | **45/50** | **36/50** | **43/50** |
+
 
 *The AI evaluation system uses advanced language models trained on translation quality assessment tasks, providing consistent and objective scoring across all test cases.*
